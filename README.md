@@ -5,8 +5,7 @@
 ## Setup
 
 
-
-### Install for first time
+### How to Install 
 
 To install this script, you will import the file from Github into Tampermonkey.
 
@@ -18,7 +17,7 @@ To install this script, you will import the file from Github into Tampermonkey.
 - Click Import.
 
 
-### Fix 
+### How to Fix 
 
 For this fix, you will copy the contents from the file in Github into the file in Tampermonkey
 
