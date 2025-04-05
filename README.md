@@ -48,7 +48,7 @@ The [add-buttons script](./scripts/tampermonkey/add-buttons.js) adds convenience
 ![pike13 with buttons](./doc/pike13-with-buttons.png)
 
 ### NOTE - Buttons may break with Pike13 updates 
-### the CoderSchool admins will handle and share this fix
+### We will do our best to update and share this fix
 
 This code depends upon finding Pike13's forward (right) and backward (left) buttons.
 
