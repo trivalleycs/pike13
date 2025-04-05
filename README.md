@@ -5,7 +5,7 @@
 ## Setup
 
 
-### New Install
+### New Install To Add Today/NextWeek/LastWeek buttons to your Schedule Page
 
 To install this script, you will import the file from Github into Tampermonkey.
 
