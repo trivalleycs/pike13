@@ -15,9 +15,10 @@ To install this script, you will import the file from Github into Tampermonkey.
 - Paste this link: https://raw.githubusercontent.com/trivalleycs/pike13/refs/heads/main/scripts/tampermonkey/add-buttons.js
  into the URL box
 - Click Import.
+- Click install and you’re all set!
 
 
-### How to Fix 
+### How to Fix If Already Installed
 
 For this fix, you will copy the contents from the file in Github into the file in Tampermonkey
 
