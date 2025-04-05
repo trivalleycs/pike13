@@ -8,6 +8,8 @@
 
 ### Install for first time
 
+To install this script, you will import the file from Github into Tampermonkey.
+
 - Install the  Tampermonkey extension to your browser
 - Click on the  Tampermonkey button and go to the dashboard
 - Click on the Utilities tab
@@ -18,11 +20,18 @@
 
 ### Fix 
 
+For this fix, you will copy the contents from the file in Github into the file in Tampermonkey
+
+- in Chrome, click on the Tampermonkey extension
+- Click "Dashboard"
+- Click the "Edit" button for the "Pike13+" script
+- this should show the contents of the current script
+
 - go to https://raw.githubusercontent.com/trivalleycs/pike13/refs/heads/main/scripts/tampermonkey/add-buttons.js
 - select All and Copy all the content
-- go to your Pike13+  Tampermonkey script
+- go back to your Pike13+ Tampermonkey script
 - select All and Paste the content
-
+- click "Save" in Tampermonkey
 
 ## Adding Last Week (LW), Today and Next Week(NW) Buttons
 
