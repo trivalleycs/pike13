@@ -5,7 +5,7 @@
 ## Setup
 
 
-### How to Install If Doing Install
+### New Install
 
 To install this script, you will import the file from Github into Tampermonkey.
 
