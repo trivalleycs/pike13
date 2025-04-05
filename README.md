@@ -1,5 +1,27 @@
 # pike13
-Tampermonkey script and other utilities for Pike13
+ Tampermonkey script and other utilities for 
+
+
+## Setup
+
+
+
+### Install for first time
+
+- Install the  Tampermonkey extension to your browser
+- Click on the  Tampermonkey button and go to the dashboard
+- Click on the Utilities tab
+- Paste this link: https://raw.githubusercontent.com/trivalleycs/pike13/refs/heads/main/scripts/tampermonkey/add-buttons.js
+ into the URL box
+- Click Import.
+
+
+### Fix 
+
+- go to https://raw.githubusercontent.com/trivalleycs/pike13/refs/heads/main/scripts/tampermonkey/add-buttons.js
+- select All and Copy all the content
+- go to your Pike13+  Tampermonkey script
+- select All and Paste the content
 
 
 ## Adding Last Week (LW), Today and Next Week(NW) Buttons
@@ -16,7 +38,8 @@ The [add-buttons script](./scripts/tampermonkey/add-buttons.js) adds convenience
 
 ![pike13 with buttons](./doc/pike13-with-buttons.png)
 
-### NOTE - Buttons may break with Pike13 updates
+### NOTE - Buttons may break with Pike13 updates 
+### the CoderSchool admins will handle and share this fix
 
 This code depends upon finding Pike13's forward (right) and backward (left) buttons.
 
