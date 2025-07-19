@@ -29,8 +29,8 @@
     - Find "Allow User Scripts" and toggle to "on"
 
     ![Allow User Scripts](./doc/allow-scripts.png)
-    
 
+For more information regarding Tampermonkey permissions see https://www.tampermonkey.net/faq.php#Q209
 
 ### New Install To Add Today/NextWeek/LastWeek buttons to your Schedule Page
 
