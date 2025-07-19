@@ -5,11 +5,37 @@
 ## Setup
 
 
+### Install the Tampermonkey extension in Chrome
+
+- Go to the [Chrome Web Store - Extensions](https://chromewebstore.google.com/category/extensions?utm_source=ext_sidebar&hl=en-US)
+- Search for "Tampermonkey" and go to the Tampermonkey page
+- Click the "Add to Chrome" button
+
+### Grant Permissions in Chrome
+
+- Go to Chrome Extensions
+    - in Settings, click on "Extensions" (or go to chrome://extensions/ )
+- Enable "Developer mode" in Chrome extensions
+    - toggle the "Developer mode" switch to "on"
+
+    ![Developer mode on](./doc/dev-mode.png)
+
+- Allow Scripts from Tampermonkey
+    - In Extensions, click on "My extensions"
+    - Find the Tampermonkey extension and click on Details
+
+    ![Tampermonkey Details](./doc/tamper-details.png)
+
+    - Find "Allow User Scripts" and toggle to "on"
+
+    ![Allow User Scripts](./doc/allow-scripts.png)
+    
+
+
 ### New Install To Add Today/NextWeek/LastWeek buttons to your Schedule Page
 
 To install this script, you will import the file from Github into Tampermonkey.
 
-- Install the  Tampermonkey extension to your browser
 - Click on the  Tampermonkey button and go to the dashboard
 - Click on the Utilities tab
 - Paste this link: https://raw.githubusercontent.com/trivalleycs/pike13/refs/heads/main/scripts/tampermonkey/add-buttons.js
